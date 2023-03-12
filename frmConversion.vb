@@ -55,5 +55,6 @@
         'Diplays the results
         lblResults.Visible = True
         lblResults.Text = strResult
+        txtUnitInput.Focus()
     End Sub
 End Class
